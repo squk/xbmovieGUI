@@ -1,0 +1,63 @@
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\XDKCapture.exe.config
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\XDKCapture.csprojResolveAssemblyReference.cache
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\MainWindow.baml
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\MainWindow.g.cs
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\App.g.cs
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\XDKCapture_MarkupCompile.cache
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\XDKCapture.g.resources
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\XDKCapture.Properties.Resources.resources
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\XDKCapture.csproj.GenerateResource.Cache
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\XDKCapture.exe
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\XDKCapture.pdb
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\Elysium.dll
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.dll
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\Elysium.pdb
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\Elysium.xml
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\Microsoft.Expression.Drawing.xml
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.pdb
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.xml
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\XDKCapture.exe
+c:\users\ctn\documents\visual studio 2012\Projects\XDKCapture\XDKCapture\obj\Debug\XDKCapture.pdb
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\XDKCapture.exe.config
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.exe
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.pdb
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\XDKCapture.exe
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\XDKCapture.pdb
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\Elysium.dll
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\Elysium.pdb
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\Elysium.xml
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.csprojResolveAssemblyReference.cache
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\MainWindow.baml
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\MainWindow.g.cs
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\App.g.cs
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture_MarkupCompile.cache
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.g.resources
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.Properties.Resources.resources
+C:\Users\ctn\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.csproj.GenerateResource.Cache
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\XDKCapture.exe.config
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.exe
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.pdb
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\XDKCapture.exe
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\XDKCapture.pdb
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\Elysium.dll
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\Elysium.pdb
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\Elysium.xml
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\MainWindow.baml
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\MainWindow.g.cs
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\App.g.cs
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture_MarkupCompile.cache
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.g.resources
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.Properties.Resources.resources
+C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.csproj.GenerateResource.Cache
