@@ -32,6 +32,11 @@ namespace XDKCapture
         private void Window_Loaded_1(object sender, RoutedEventArgs e)
         {
             busyRing.IsEnabled = false;
+            LoadSettingsIntoForm();
+        }
+
+        private void LoadSettingsIntoForm()
+        {
             string savedXDK = Properties.Settings.Default.xdkName;
             string savedXBM = Properties.Settings.Default.xbmoviePath;
             int savedVideoFormat = Properties.Settings.Default.videoFormatIndex;
@@ -51,7 +56,21 @@ namespace XDKCapture
             }
         }
 
+        private void SaveFormSettings()
+        {
+            Properties.Settings.Default.xdkName = ipBox.Text;
+            Properties.Settings.Default.xbmoviePath = xbmoviePathBox.Text;
+            Properties.Settings.Default.videoFormatIndex = recordingFormat.SelectedIndex;
+            Properties.Settings.Default.Save();
+            busyRing.IsEnabled = true;
+        }
+
         private void recordButton_Click(object sender, RoutedEventArgs e)
+        {
+            StartXbmovie();
+        }
+
+        private void StartXbmovie()
         {
             if (!File.Exists(xbmoviePathBox.Text))
             {
@@ -59,19 +78,13 @@ namespace XDKCapture
             }
             else
             {
-                Properties.Settings.Default.xdkName = ipBox.Text;
-                Properties.Settings.Default.xbmoviePath = xbmoviePathBox.Text;
-                Properties.Settings.Default.videoFormatIndex = recordingFormat.SelectedIndex;
-                Properties.Settings.Default.Save();
-                busyRing.IsEnabled = true;
-                
                 BackgroundWorker bw = new BackgroundWorker();
                 bw.WorkerReportsProgress = false;
 
                 bw.DoWork += new DoWorkEventHandler(
                 delegate(object o, DoWorkEventArgs args)
                 {
-                    string[] A =(string[]) args.Argument;
+                    string[] A = (string[])args.Argument;
                     BackgroundWorker b = o as BackgroundWorker;
                     string commandText = "/X:" + A[0] + " /F:" + A[1] + " " + A[2];
                     Process p = new Process();
@@ -80,7 +93,7 @@ namespace XDKCapture
                     p.Start();
                     p.WaitForExit();
                 });
-                
+
                 bw.RunWorkerCompleted += new RunWorkerCompletedEventHandler(
                 delegate(object o, RunWorkerCompletedEventArgs args)
                 {
