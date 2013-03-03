@@ -61,3 +61,9 @@ C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture_MarkupComp
 C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.g.resources
 C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.Properties.Resources.resources
 C:\Users\Christian\Dropbox\XDKCapture\XDKCapture\obj\Debug\XDKCapture.csproj.GenerateResource.Cache
+C:\Users\ctn\Documents\GitHub\xbmovieGUI\XDKCapture\bin\Debug\XDKCapture.exe.config
+C:\Users\ctn\Documents\GitHub\xbmovieGUI\XDKCapture\obj\Debug\XDKCapture.exe
+C:\Users\ctn\Documents\GitHub\xbmovieGUI\XDKCapture\obj\Debug\XDKCapture.pdb
+C:\Users\ctn\Documents\GitHub\xbmovieGUI\XDKCapture\obj\Debug\XDKCapture.csprojResolveAssemblyReference.cache
+C:\Users\ctn\Documents\GitHub\xbmovieGUI\XDKCapture\obj\Debug\App.g.cs
+C:\Users\ctn\Documents\GitHub\xbmovieGUI\XDKCapture\obj\Debug\XDKCapture_MarkupCompile.cache

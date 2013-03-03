@@ -7,7 +7,9 @@
         params:Design.AccentBrush="YellowGreen"
         params:Manager.AccentBrush="YellowGreen"
         params:Design.Theme="Dark"
-        params:Manager.Theme="Dark" Height="270" Width="336.632" Loaded="Window_Loaded_1" >
+        params:Manager.Theme="Dark"
+        params:Manager.ContrastBrush="White"
+    Height="270" Width="336.632" Loaded="Window_Loaded_1" >
     <Grid>
         <ComboBox x:Name="recordingFormat" HorizontalAlignment="Left" Margin="10,133,0,0" VerticalAlignment="Top" Width="310" SelectedIndex="1">
             <ComboBoxItem Content="HD: 8Mbps 720p30; 384 Kbps 5.1 surround"/>
